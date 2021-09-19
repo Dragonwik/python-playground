@@ -1,5 +1,5 @@
 import json
-from arepl_dump import dump
+#from arepl_dump import dump
 
 msg = "Square Values"
 print(msg)
